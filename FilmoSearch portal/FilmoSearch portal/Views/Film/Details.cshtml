@@ -1,0 +1,88 @@
+﻿@model FilmoSearch_portal.ViewModels.FilmViewModels.FilmsViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Film</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Year)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Year)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    <a asp-action="Index">Back to List</a>
+</div>
+<p>
+    @Html.ActionLink("Create new Review", "Create", "Review", new { id = Model.Id })
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Reviews[0].Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Reviews[0].Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Reviews[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Reviews[0].Stars)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Reviews)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Author)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Stars)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", "Review", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", "Review", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", "Review", new { id = item.Id, filmId = Model.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

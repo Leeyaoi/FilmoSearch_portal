@@ -1,0 +1,41 @@
+﻿@model Actor
+
+@{
+    ViewData["Title"] = "Show Films";
+}
+
+<h1>Films</h1>
+
+<p>
+    <a asp-action="CreateToActor">Add New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Roles[0].Film.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Roles[0].Title)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Roles) {
+        <tr>
+			<td>
+			    @Html.DisplayFor(modelItem => item.Film.Title)
+			</td>
+            <td>
+				@Html.DisplayFor(modelItem => item.Title)
+			</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { filmId = item.FilmId, actorId = item.ActorId }) |
+                @Html.ActionLink("Delete", "Delete", new { filmId = item.FilmId, actorId = item.ActorId })
+			</td>
+        </tr>
+            
+}
+    </tbody>
+</table>

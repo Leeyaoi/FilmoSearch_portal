@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\FilmoSearch portal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Migrations\\20240412122216_AddConstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmoSearch portal\\Migrations\\20240412122216_AddConstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|d:\\dotnet\\filmosearch portal\\filmosearch portal\\viewmodels\\roleviewmodels\\createroleviewmodeltoactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|solutionrelative:filmosearch portal\\viewmodels\\roleviewmodels\\createroleviewmodeltoactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|d:\\dotnet\\filmosearch portal\\filmosearch portal\\viewmodels\\roleviewmodels\\createroleviewmodeltofilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|solutionrelative:filmosearch portal\\viewmodels\\roleviewmodels\\createroleviewmodeltofilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|d:\\dotnet\\filmosearch portal\\filmosearch portal\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|solutionrelative:filmosearch portal\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|d:\\dotnet\\filmosearch portal\\filmosearch portal\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|solutionrelative:filmosearch portal\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|d:\\dotnet\\filmosearch portal\\filmosearch portal\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|solutionrelative:filmosearch portal\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|d:\\dotnet\\filmosearch portal\\filmosearch portal\\repositories\\filmrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|solutionrelative:filmosearch portal\\repositories\\filmrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|d:\\dotnet\\filmosearch portal\\filmosearch portal\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|solutionrelative:filmosearch portal\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|d:\\dotnet\\filmosearch portal\\filmosearch portal\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|solutionrelative:filmosearch portal\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|d:\\dotnet\\filmosearch portal\\filmosearch portal\\views\\role\\showfilms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|solutionrelative:filmosearch portal\\views\\role\\showfilms.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|d:\\dotnet\\filmosearch portal\\filmosearch portal\\views\\role\\showactors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|solutionrelative:filmosearch portal\\views\\role\\showactors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|d:\\dotnet\\filmosearch portal\\filmosearch portal\\views\\role\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|solutionrelative:filmosearch portal\\views\\role\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|d:\\dotnet\\filmosearch portal\\filmosearch portal\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|solutionrelative:filmosearch portal\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|d:\\dotnet\\filmosearch portal\\filmosearch portal\\repositories\\actorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|solutionrelative:filmosearch portal\\repositories\\actorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|d:\\dotnet\\filmosearch portal\\filmosearch portal\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CA03B9-998A-4B57-A11E-377E9493E4A5}|FilmoSearch portal\\FilmoSearch portal.csproj|solutionrelative:filmosearch portal\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 409,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240412122216_AddConstraints.cs",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Migrations\\20240412122216_AddConstraints.cs",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\Migrations\\20240412122216_AddConstraints.cs",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Migrations\\20240412122216_AddConstraints.cs",
+              "RelativeToolTip": "FilmoSearch portal\\Migrations\\20240412122216_AddConstraints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:22:16.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateRoleViewModelToActor.cs",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\ViewModels\\RoleViewModels\\CreateRoleViewModelToActor.cs",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\ViewModels\\RoleViewModels\\CreateRoleViewModelToActor.cs",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\ViewModels\\RoleViewModels\\CreateRoleViewModelToActor.cs",
+              "RelativeToolTip": "FilmoSearch portal\\ViewModels\\RoleViewModels\\CreateRoleViewModelToActor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:20:56.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateRoleViewModelToFilm.cs",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\ViewModels\\RoleViewModels\\CreateRoleViewModelToFilm.cs",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\ViewModels\\RoleViewModels\\CreateRoleViewModelToFilm.cs",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\ViewModels\\RoleViewModels\\CreateRoleViewModelToFilm.cs",
+              "RelativeToolTip": "FilmoSearch portal\\ViewModels\\RoleViewModels\\CreateRoleViewModelToFilm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:20:47.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\Models\\Role.cs",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Models\\Role.cs",
+              "RelativeToolTip": "FilmoSearch portal\\Models\\Role.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:19:51.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "FilmoSearch portal\\Controllers\\ReviewController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwCkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:55:26.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShowFilms.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Views\\Role\\ShowFilms.cshtml",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\Views\\Role\\ShowFilms.cshtml",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Views\\Role\\ShowFilms.cshtml",
+              "RelativeToolTip": "FilmoSearch portal\\Views\\Role\\ShowFilms.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T21:30:32.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Views\\Role\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\Views\\Role\\Edit.cshtml",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Views\\Role\\Edit.cshtml",
+              "RelativeToolTip": "FilmoSearch portal\\Views\\Role\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T21:12:49.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilmRepo.cs",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Repositories\\FilmRepo.cs",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\Repositories\\FilmRepo.cs",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Repositories\\FilmRepo.cs",
+              "RelativeToolTip": "FilmoSearch portal\\Repositories\\FilmRepo.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAArwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:08:33.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmController.cs",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Controllers\\FilmController.cs",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\Controllers\\FilmController.cs",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Controllers\\FilmController.cs",
+              "RelativeToolTip": "FilmoSearch portal\\Controllers\\FilmController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:00:54.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Views\\Role\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\Views\\Role\\Delete.cshtml",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Views\\Role\\Delete.cshtml",
+              "RelativeToolTip": "FilmoSearch portal\\Views\\Role\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T04:49:39.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Views\\Film\\Index.cshtml",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\Views\\Film\\Index.cshtml",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Views\\Film\\Index.cshtml",
+              "RelativeToolTip": "FilmoSearch portal\\Views\\Film\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T05:34:11.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShowActors.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Views\\Role\\ShowActors.cshtml",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\Views\\Role\\ShowActors.cshtml",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Views\\Role\\ShowActors.cshtml",
+              "RelativeToolTip": "FilmoSearch portal\\Views\\Role\\ShowActors.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAewCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T21:07:36.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "FilmoSearch portal\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwJUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:04:20.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ActorRepo.cs",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Repositories\\ActorRepo.cs",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\Repositories\\ActorRepo.cs",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Repositories\\ActorRepo.cs",
+              "RelativeToolTip": "FilmoSearch portal\\Repositories\\ActorRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:01:44.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ActorController.cs",
+              "DocumentMoniker": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Controllers\\ActorController.cs",
+              "RelativeDocumentMoniker": "FilmoSearch portal\\Controllers\\ActorController.cs",
+              "ToolTip": "D:\\dotnet\\FilmoSearch portal\\FilmoSearch portal\\Controllers\\ActorController.cs",
+              "RelativeToolTip": "FilmoSearch portal\\Controllers\\ActorController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T21:00:37.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
