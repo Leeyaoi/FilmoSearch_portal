@@ -16,6 +16,7 @@ namespace FilmoSearch_portal.ViewModels.RoleViewModels
         public string ActorName { get; set; }
 
         [Display(Name = "Role:")]
-		public string Title { get; set; } = "";
+        [MaxLength(30)]
+        public string Title { get; set; } = "";
     }
 }
